@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>owner_approval</field>
+        <global>true</global>
+        <isolate_script>false</isolate_script>
+        <messages/>
+        <name>Survey Distro: Update Survey R/O</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+ var myValue = g_form.getValue('owner_approval');
+ if(myValue =="Survey Expired"){
+  g_form.setReadOnly("update_to_latest_responses", true);
+ }
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+        <sys_created_on>2024-01-02 17:51:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a69a907c1ba7b514f9c8ebd22a4bcb79</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Survey Distro: Update Survey R/O</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
+        <sys_update_name>sys_script_client_a69a907c1ba7b514f9c8ebd22a4bcb79</sys_update_name>
+        <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+        <sys_updated_on>2024-01-02 17:56:41</sys_updated_on>
+        <table>x_cama2_survey_dis_survey_distribution</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

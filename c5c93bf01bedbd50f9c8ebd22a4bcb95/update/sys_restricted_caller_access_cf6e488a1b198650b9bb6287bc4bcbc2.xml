@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <description>Ability to delete Records</description>
+        <operation>delete</operation>
+        <rca_type>real_rca</rca_type>
+        <source/>
+        <source_scope display_value="Global">global</source_scope>
+        <source_table/>
+        <source_type>5</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+        <sys_created_on>2024-04-02 13:57:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cf6e488a1b198650b9bb6287bc4bcbc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global</sys_name>
+        <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_cf6e488a1b198650b9bb6287bc4bcbc2</sys_update_name>
+        <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+        <sys_updated_on>2024-04-02 13:57:02</sys_updated_on>
+        <target name="x_cama2_survey_dis_survey_distribution" target_table="sys_db_object">1d8bf7781bedbd50f9c8ebd22a4bcbab</target>
+        <target_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</target_scope>
+        <target_table>sys_db_object</target_table>
+        <target_type>1</target_type>
+    </sys_restricted_caller_access>
+</record_update>

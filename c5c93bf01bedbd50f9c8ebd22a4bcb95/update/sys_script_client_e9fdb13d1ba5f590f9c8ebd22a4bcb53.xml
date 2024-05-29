@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>false</isolate_script>
+        <messages/>
+        <name>Survey Distro | Form Load</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   var myState = g_form.getValue('survey_state');
+if(myState =="Not Started"){
+	g_form.setValue('owner_approval',"Not Yet Completed");
+	g_form.setReadOnly('owner_approval',true);
+}
+if(myState =="In Progress"){
+	g_form.setReadOnly('owner_approval',true);
+	g_form.setValue('survey_submitted_date','');
+}
+if(myState =="Awaiting Approval"){
+	g_form.setValue('owner_approval',"Awaiting Approval");
+	g_form.setReadOnly('owner_approval',false);
+	g_form.setReadOnly('survey_state',true);
+}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+        <sys_created_on>2023-09-28 17:30:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e9fdb13d1ba5f590f9c8ebd22a4bcb53</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Survey Distro | Form Load</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
+        <sys_update_name>sys_script_client_e9fdb13d1ba5f590f9c8ebd22a4bcb53</sys_update_name>
+        <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+        <sys_updated_on>2023-10-04 02:21:53</sys_updated_on>
+        <table>x_cama2_survey_dis_survey_distribution</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_cama2_survey_dis.sd_admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>sd_admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+        <sys_created_on>2023-10-01 21:24:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0630563e1b6571d0f9c8ebd22a4bcb3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cama2_survey_dis.sd_admin</sys_name>
+        <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
+        <sys_update_name>sys_user_role_0630563e1b6571d0f9c8ebd22a4bcb3d</sys_update_name>
+        <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+        <sys_updated_on>2023-10-01 21:24:51</sys_updated_on>
+    </sys_user_role>
+</record_update>

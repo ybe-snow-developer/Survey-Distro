@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="87adb3bc1bedbd50f9c8ebd22a4bcb31" sys_domain="global" table="x_cama2_survey_dis_survey_distribution" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product</element>
+            <position>0</position>
+            <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+            <sys_created_on>2024-01-03 03:20:56</sys_created_on>
+            <sys_id>33bd5ab41b2b7d50b9bb6287bc4bcb75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cama2_survey_dis_survey_distribution" sys_domain="global" view="Default view">87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_ui_section>
+            <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+            <sys_updated_on>2024-01-03 03:20:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>distribution</element>
+            <position>1</position>
+            <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+            <sys_created_on>2024-01-03 03:20:56</sys_created_on>
+            <sys_id>3bbd5ab41b2b7d50b9bb6287bc4bcb75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cama2_survey_dis_survey_distribution" sys_domain="global" view="Default view">87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_ui_section>
+            <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+            <sys_updated_on>2024-01-03 03:20:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product_owner</element>
+            <position>2</position>
+            <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+            <sys_created_on>2024-01-03 03:20:56</sys_created_on>
+            <sys_id>3fbd5ab41b2b7d50b9bb6287bc4bcb75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cama2_survey_dis_survey_distribution" sys_domain="global" view="Default view">87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_ui_section>
+            <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+            <sys_updated_on>2024-01-03 03:20:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>3</position>
+            <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+            <sys_created_on>2024-01-03 03:20:56</sys_created_on>
+            <sys_id>33bd5ab41b2b7d50b9bb6287bc4bcb76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cama2_survey_dis_survey_distribution" sys_domain="global" view="Default view">87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_ui_section>
+            <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+            <sys_updated_on>2024-01-03 03:20:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>survey_group</element>
+            <position>4</position>
+            <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+            <sys_created_on>2024-01-03 03:20:56</sys_created_on>
+            <sys_id>37bd5ab41b2b7d50b9bb6287bc4bcb76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cama2_survey_dis_survey_distribution" sys_domain="global" view="Default view">87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_ui_section>
+            <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+            <sys_updated_on>2024-01-03 03:20:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+            <sys_created_on>2024-01-03 03:20:56</sys_created_on>
+            <sys_id>3bbd5ab41b2b7d50b9bb6287bc4bcb76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cama2_survey_dis_survey_distribution" sys_domain="global" view="Default view">87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_ui_section>
+            <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+            <sys_updated_on>2024-01-03 03:20:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owner_approval</element>
+            <position>6</position>
+            <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+            <sys_created_on>2024-01-03 03:20:56</sys_created_on>
+            <sys_id>3fbd5ab41b2b7d50b9bb6287bc4bcb76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cama2_survey_dis_survey_distribution" sys_domain="global" view="Default view">87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_ui_section>
+            <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+            <sys_updated_on>2024-01-03 03:20:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>survey_state</element>
+            <position>7</position>
+            <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+            <sys_created_on>2024-01-03 03:20:56</sys_created_on>
+            <sys_id>33bd5ab41b2b7d50b9bb6287bc4bcb77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cama2_survey_dis_survey_distribution" sys_domain="global" view="Default view">87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_ui_section>
+            <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+            <sys_updated_on>2024-01-03 03:20:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active_survey</element>
+            <position>8</position>
+            <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+            <sys_created_on>2024-01-03 03:20:56</sys_created_on>
+            <sys_id>37bd5ab41b2b7d50b9bb6287bc4bcb77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cama2_survey_dis_survey_distribution" sys_domain="global" view="Default view">87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_ui_section>
+            <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+            <sys_updated_on>2024-01-03 03:20:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>survey_submitted_date</element>
+            <position>9</position>
+            <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+            <sys_created_on>2024-01-03 03:20:56</sys_created_on>
+            <sys_id>3bbd5ab41b2b7d50b9bb6287bc4bcb77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cama2_survey_dis_survey_distribution" sys_domain="global" view="Default view">87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_ui_section>
+            <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+            <sys_updated_on>2024-01-03 03:20:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>10</position>
+            <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+            <sys_created_on>2024-01-03 03:20:56</sys_created_on>
+            <sys_id>3fbd5ab41b2b7d50b9bb6287bc4bcb77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cama2_survey_dis_survey_distribution" sys_domain="global" view="Default view">87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_ui_section>
+            <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+            <sys_updated_on>2024-01-03 03:20:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_cama2_survey_dis_survey_distribution</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+            <sys_created_on>2023-09-26 00:14:28</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cama2_survey_dis_survey_distribution</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
+            <sys_update_name>sys_ui_section_87adb3bc1bedbd50f9c8ebd22a4bcb31</sys_update_name>
+            <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+            <sys_updated_on>2023-09-26 00:14:28</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

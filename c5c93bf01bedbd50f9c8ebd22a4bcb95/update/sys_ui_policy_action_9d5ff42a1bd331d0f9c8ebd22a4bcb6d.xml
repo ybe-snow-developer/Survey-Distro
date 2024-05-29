@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>u_4_2_a</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+        <sys_created_on>2023-12-26 20:42:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9d5ff42a1bd331d0f9c8ebd22a4bcb6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_4_2_a</sys_name>
+        <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
+        <sys_update_name>sys_ui_policy_action_9d5ff42a1bd331d0f9c8ebd22a4bcb6d</sys_update_name>
+        <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+        <sys_updated_on>2023-12-26 20:42:06</sys_updated_on>
+        <table>x_cama2_survey_dis_survey_distribution</table>
+        <ui_policy display_value="Survey Distro: Make Answers Read Only">453e72381b933d104570c91e1e4bcb70</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

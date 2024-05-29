@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name/>
+        <active>true</active>
+        <client>true</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments/>
+        <condition/>
+        <form_action>true</form_action>
+        <form_button>false</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>true</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style/>
+        <format_for_configurable_workspace>false</format_for_configurable_workspace>
+        <hint/>
+        <isolate_script>false</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <messages/>
+        <name>Show Active Survey</name>
+        <onclick>showMyResponse()</onclick>
+        <order>100</order>
+        <script><![CDATA[function showMyResponse(){
+	var id = g_form.getValue('active_survey');//'b337fcd51b21b190f9c8ebd22a4bcb79'
+	var type = 'ef25ece31bd031904570c91e1e4bcbf3'//g_form.getValue('metric_type');
+	var url = 'assessment_take2.do?sysparm_assessable_sysid=' + id + '&sysparm_assessable_type=' + type + '&sysparm_reader_view=true';
+if(id!=""){
+	var d = new GlideOverlay({
+		title: getMessage("User's Response"),
+		iframe: url,
+		width:'80%',
+		height: '100%',
+		onAfterLoad: function() {
+			var iframe = d.getIFrameElement();
+			setTimeout(function(){
+				iframe.height = parseInt(iframe.height)+1;
+			},0);
+        }
+	});
+	d.render();
+	}else{
+		alert("A survey has not been conducted for this record yet.");
+	}
+}]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+        <sys_created_on>2023-09-27 00:41:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2c5c05591be1b190f9c8ebd22a4bcb06</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Show Active Survey</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
+        <sys_update_name>sys_ui_action_2c5c05591be1b190f9c8ebd22a4bcb06</sys_update_name>
+        <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+        <sys_updated_on>2023-10-03 03:41:28</sys_updated_on>
+        <table>x_cama2_survey_dis_survey_distribution</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>true</ui16_compatible>
+    </sys_ui_action>
+</record_update>

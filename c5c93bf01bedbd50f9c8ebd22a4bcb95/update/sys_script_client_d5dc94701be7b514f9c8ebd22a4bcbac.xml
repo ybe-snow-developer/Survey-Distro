@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>false</isolate_script>
+        <messages/>
+        <name>Survey Distro: Update Survey R/O</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+    var myOwnerApproval = g_form.getValue('owner_approval');
+	var mySurveyStatus = g_form.getValue('survey_state');
+ if(myOwnerApproval =="Approved" && mySurveyStatus == "Approved"){
+  g_form.setReadOnly('product',true);
+  g_form.setReadOnly('distribution',true);
+  g_form.setReadOnly('product_owner',true);
+  g_form.setReadOnly('assigned_to',true);
+  g_form.setReadOnly('owner_approval',true);
+  g_form.setReadOnly('survey_state',true);
+ }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+        <sys_created_on>2024-01-02 17:58:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d5dc94701be7b514f9c8ebd22a4bcbac</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Survey Distro: Update Survey R/O</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
+        <sys_update_name>sys_script_client_d5dc94701be7b514f9c8ebd22a4bcbac</sys_update_name>
+        <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+        <sys_updated_on>2024-02-15 20:36:03</sys_updated_on>
+        <table>x_cama2_survey_dis_survey_distribution</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

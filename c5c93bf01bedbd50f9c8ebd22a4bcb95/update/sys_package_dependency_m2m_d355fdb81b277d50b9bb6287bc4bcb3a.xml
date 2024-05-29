@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">496933424f100200c5081fb5f110c7c6</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+        <sys_created_on>2023-09-26 00:05:05</sys_created_on>
+        <sys_id>d355fdb81b277d50b9bb6287bc4bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
+        <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+        <sys_updated_on>2023-09-26 00:05:05</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

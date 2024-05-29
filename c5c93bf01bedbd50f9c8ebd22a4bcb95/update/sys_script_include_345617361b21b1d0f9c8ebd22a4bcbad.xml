@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_cama2_survey_dis.SurveyGroupCheck</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>SurveyGroupCheck</name>
+        <script><![CDATA[var SurveyGroupCheck = Class.create();
+SurveyGroupCheck.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+checkforsurveygroup: function() {
+var userID = this.getParameter('sysparm_user_id');
+var groupId = this.getParameter('sysparm_group');
+var surveyId = this.getParameter('sysparm_survey_id');
+
+var gr = new GlideRecord('sys_user_grmember');
+gr.addQuery('user', userId);
+gr.addQuery('group',groupId);
+gr.query();
+
+if(gr.next()){
+	var assessment = new GlideRecord('asmt_assessment_instance');
+	if(assessment.get(surveyId)){
+		assessment.setValue('user', userId);
+		assessment.update();
+		return 'yes';
+	}
+}
+return 'no';
+},
+    type: 'SurveyGroupCheck'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+        <sys_created_on>2023-10-02 02:37:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>345617361b21b1d0f9c8ebd22a4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SurveyGroupCheck</sys_name>
+        <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
+        <sys_update_name>sys_script_include_345617361b21b1d0f9c8ebd22a4bcbad</sys_update_name>
+        <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
+        <sys_updated_on>2023-10-02 02:37:05</sys_updated_on>
+    </sys_script_include>
+</record_update>
