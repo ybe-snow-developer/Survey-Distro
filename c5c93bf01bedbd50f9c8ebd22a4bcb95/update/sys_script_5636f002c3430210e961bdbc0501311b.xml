@@ -3,24 +3,22 @@
         <abort_action>false</abort_action>
         <access>package_private</access>
         <action_delete>false</action_delete>
-        <action_insert>false</action_insert>
+        <action_insert>true</action_insert>
         <action_query>false</action_query>
-        <action_update>true</action_update>
+        <action_update>false</action_update>
         <active>true</active>
         <add_message>false</add_message>
         <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
-        <collection>x_cama2_survey_dis_survey_distribution</collection>
+        <collection>sc_task</collection>
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_cama2_survey_dis_survey_distribution">assigned_toVALCHANGES^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter_condition>
+        <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>Survey Distro | Assigned to Survey</name>
+        <name>Move atachments from requet to task</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -30,35 +28,27 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-var mySurvey = current.sys_id;
-var myUser = current.assigned_to;
-var activeSurvey = current.active_survey;
-//var distrotable = new GlideRecord('x_cama2_survey_dis_survey_distribution');
-//distrotable.get('sys_id',mySurvey);
 
-var surveytable = new GlideRecord('asmt_assessment_instance');
-surveytable.get('sys_id',activeSurvey);
-surveytable.user = myUser;
-surveytable.update();
+	 GlideSysAttachment.copy('sc_req_item', current.request_item, 'sc_task', current.sys_id);
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
-        <sys_created_by>Vahojeh Brooks</sys_created_by>
-        <sys_created_on>2023-10-01 23:46:05</sys_created_on>
+        <sys_created_by>vahojehbrooks@gmail.com</sys_created_by>
+        <sys_created_on>2024-06-28 16:41:50</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>45afe2f61ba971d0f9c8ebd22a4bcb5d</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>Survey Distro | Assigned to Survey</sys_name>
+        <sys_id>5636f002c3430210e961bdbc0501311b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Move atachments from requet to task</sys_name>
         <sys_overrides/>
         <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
         <sys_policy/>
         <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
-        <sys_update_name>sys_script_45afe2f61ba971d0f9c8ebd22a4bcb5d</sys_update_name>
+        <sys_update_name>sys_script_5636f002c3430210e961bdbc0501311b</sys_update_name>
         <sys_updated_by>vahojehbrooks@gmail.com</sys_updated_by>
-        <sys_updated_on>2024-06-13 17:38:28</sys_updated_on>
+        <sys_updated_on>2024-06-28 16:41:50</sys_updated_on>
         <template/>
-        <when>after</when>
+        <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=45afe2f61ba971d0f9c8ebd22a4bcb5d"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=5636f002c3430210e961bdbc0501311b"/>
 </record_update>

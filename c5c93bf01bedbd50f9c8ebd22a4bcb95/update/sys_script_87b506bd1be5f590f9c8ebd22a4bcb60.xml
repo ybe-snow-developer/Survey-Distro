@@ -40,22 +40,20 @@ getRecord.update();
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
-        <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
+        <sys_created_by>Vahojeh Brooks</sys_created_by>
         <sys_created_on>2023-09-28 18:08:16</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>87b506bd1be5f590f9c8ebd22a4bcb60</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Survey Distro | Approved</sys_name>
         <sys_overrides/>
         <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
         <sys_update_name>sys_script_87b506bd1be5f590f9c8ebd22a4bcb60</sys_update_name>
-        <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
-        <sys_updated_on>2023-10-03 16:29:57</sys_updated_on>
+        <sys_updated_by>vahojehbrooks@gmail.com</sys_updated_by>
+        <sys_updated_on>2024-06-13 17:38:28</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>
