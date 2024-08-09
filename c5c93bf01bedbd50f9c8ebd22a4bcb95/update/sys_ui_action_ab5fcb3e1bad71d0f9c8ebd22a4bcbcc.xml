@@ -69,7 +69,6 @@ function takeSurvey(){
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
         <sys_created_on>2023-10-02 02:00:00</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ab5fcb3e1bad71d0f9c8ebd22a4bcbcc</sys_id>
@@ -78,7 +77,6 @@ function takeSurvey(){
         <sys_overrides/>
         <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
         <sys_update_name>sys_ui_action_ab5fcb3e1bad71d0f9c8ebd22a4bcbcc</sys_update_name>
         <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>

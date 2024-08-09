@@ -16,6 +16,7 @@
         <logo/>
         <menu/>
         <name>Survey Distribution</name>
+        <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -42,4 +43,5 @@
         <vendor_prefix/>
         <version>1.0.0</version>
     </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=c5c93bf01bedbd50f9c8ebd22a4bcb95"/>
 </record_update>

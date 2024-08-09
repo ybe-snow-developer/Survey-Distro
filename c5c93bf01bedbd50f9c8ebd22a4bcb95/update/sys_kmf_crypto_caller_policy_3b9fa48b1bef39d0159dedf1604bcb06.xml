@@ -3,7 +3,7 @@
         <active>true</active>
         <approval_type/>
         <check_script_hash>false</check_script_hash>
-        <crypto_module display_value="com_glide_web_service_consumer_glideencrypter">2ca78142e7222010628a20c343f6a92e</crypto_module>
+        <crypto_module display_value="global.com_glide_web_service_consumer_glideencrypter">2ca78142e7222010628a20c343f6a92e</crypto_module>
         <crypto_spec display_value="com_glide_web_service_consumer_glideencrypter --- Symmetric Key Wrapping/Unwrapping">eca78142e7222010628a20c343f6a930</crypto_spec>
         <granular_operation/>
         <identity_group_alias/>
@@ -19,13 +19,11 @@
         <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
         <sys_created_on>2024-01-09 19:06:07</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>3b9fa48b1bef39d0159dedf1604bcb06</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
         <sys_update_name>sys_kmf_crypto_caller_policy_3b9fa48b1bef39d0159dedf1604bcb06</sys_update_name>
         <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>

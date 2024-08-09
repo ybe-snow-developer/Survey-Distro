@@ -47,12 +47,9 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
         <sys_created_on>2023-09-27 01:11:38</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>9654199d1b25b190f9c8ebd22a4bcb05</sys_id>
         <sys_name>Active Survey</sys_name>
         <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
         <sys_update_name>sys_dictionary_x_cama2_survey_dis_survey_distribution_active_survey</sys_update_name>
         <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>

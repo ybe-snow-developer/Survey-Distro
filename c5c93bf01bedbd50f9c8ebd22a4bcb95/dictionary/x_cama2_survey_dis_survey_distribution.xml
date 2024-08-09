@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=false" audit="true" db_object_id="1d8bf7781bedbd50f9c8ebd22a4bcbab" extends="task" label="Survey Distribution" max_length="40" name="x_cama2_survey_dis_survey_distribution" type="collection">
+        <element label="1.1 A" max_length="40" name="u_1_answer" type="string"/>
+        <element default="4.1 Policies and governance&#13;&#10;&#13;&#10;How would you evaluate the manager's policies and governance related to stewardship as it relates to the investment strategy, inclusive of the broader organization?" label="4.1 Q" max_length="300" name="u_4_1_q" read_only="true" type="string"/>
+        <element label="1.3 A" max_length="40" name="u_3_answer" type="string"/>
+        <element label="4.2 A" max_length="40" name="u_4_2_a" type="string"/>
+        <element default="1.3 Investment process&#13;&#10;&#13;&#10;How would you evaluate this investment strategy's investment process as it relates to climate issues?" label="1.3 Q" max_length="300" name="u_3_question" read_only="true" type="string"/>
+        <element label="1.4 A" max_length="40" name="u_4_answer" type="string"/>
+        <element default="3.4 Investment outcomes&#13;&#10;&#13;&#10;How would you assess the DEI outcomes of the investment strategy, inclusive of the organization, with respect to DEI?" label="3.4 Q" max_length="300" name="u_3_4_q" read_only="true" type="string"/>
+        <element label="4. Related Comments" max_length="500" name="u_4_related_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Update Survey" max_length="4000" name="update_survey" type="script"/>
+        <element default="1.4 Investment outcomes&#13;&#10;&#13;&#10;How would you evaluate the strategy's investment outcomes as it relates to climate issues?" label="1.4 Q" max_length="300" name="u_4_question" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true,no_sort=true,slushbucket_ref_no_expand=true" label="Survey Group" max_length="4000" name="survey_group" reference="sys_user" type="glide_list"/>
+        <element default="3.1 Policies and governance&#13;&#10;&#13;&#10;How would you evaluate the manager's policies and governance related to DEI as it pertains to the investment strategy, inclusive of the broader organization?" label="3.1 Q" max_length="300" name="u_3_1_q" read_only="true" type="string"/>
+        <element label="4.0 Public Equity" max_length="10" name="u_4_0_public_equity" type="string"/>
+        <element default="1.1 Policies and governance&#13;&#10;&#13;&#10;How would you evaluate the manager's policies and governance as it relates to integrating the risks and opportunities arising from climate change into the investment strategy, inclusive of the broader organization?" label="1.1 Q" max_length="300" name="u_1_1_question" read_only="true" type="string"/>
+        <element default="Stewardship" label="4." max_length="40" name="u_4_stewardship" read_only="true" type="string"/>
+        <element label="2.4 A" max_length="40" name="u_2_4_a" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Survey Approved Date" max_length="40" name="survey_submitted_date" read_only="true" type="glide_date"/>
+        <element default="2.4 Investment outcomes&#13;&#10;How would you evaluate the investment strategy's ESG outcomes?" label="2.4 Q" max_length="300" name="u_2_4_q" read_only="true" type="string"/>
+        <element label="1.5 N/A Selected Comment" max_length="300" name="u_5_n_a_selected_comment" type="string"/>
+        <element label="1. Related Comments" max_length="300" name="related_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Product Owner" max_length="32" name="product_owner" reference="sys_user" type="reference"/>
+        <element default="4.3 Investment process&#13;&#10;&#13;&#10; How would you assess how the manager integrates stewardship into the investment process?" label="4.3 Q" max_length="200" name="u_4_3_q" read_only="true" type="string"/>
+        <element default="2.1 Policies and governance&#13;&#10;How would you evaluate the manager's policies and governance related to ESG as it relates to the investment strategy, inclusive of the broader organization?" label="2.1 Q" max_length="300" name="u_2_1_q" read_only="true" type="string"/>
+        <element label="3.4 A" max_length="40" name="u_3_4_a" type="string"/>
+        <element label="Priority 1" max_length="1500" name="priority_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Interested Party" max_length="32" name="survey_assignee" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="CambridgeID" max_length="100" name="cambridgeid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Distribution Date" max_length="40" name="distribution_date" type="glide_date"/>
+        <element label="3.1 A" max_length="40" name="u_3_1_a" type="string"/>
+        <element label="Priority 3" max_length="1500" name="priority_3" type="string"/>
+        <element default="ESG" label="2." max_length="40" name="esg" read_only="true" type="string"/>
+        <element label="1.2 A" max_length="40" name="u_2_answer" type="string"/>
+        <element default="4.2 Communications and reporting&#13;&#10;&#13;&#10;How would you assess the manager's communications and reporting of stewardship activities as it relates to the investment strategy, inclusive of the broader organization?" label="4.2 Q" max_length="300" name="u_4_2_q" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Active Survey" max_length="32" name="active_survey" read_only="true" reference="asmt_assessment_instance" type="reference"/>
+        <element label="2.1 A" max_length="40" name="u_2_1_a" type="string"/>
+        <element default="2.2 Communications and reporting&#13;&#10;How would you evaluate the manager's communications and reporting with respect to ESG as it relates to the investment strategy, inclusive of the broader organization?" label="2.2 Q" max_length="300" name="u_2_2_q" read_only="true" type="string"/>
+        <element default="3.2 Communications and reporting&#13;&#10;&#13;&#10;How would you evaluate the manager's communications and reporting related to DEI as it relates to the investment strategy, inclusive of the broader organization?" label="3.2 Q" max_length="300" name="u_3_2_q" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Not Yet Completed" label="Owner Approval" max_length="40" name="owner_approval" type="string">
+            <choice>
+                <element dependent_value="Submitted" inactive_on_update="false" label="Awaiting Approval" sequence="1" value="Awaiting Approval"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="Rejected"/>
+                <element inactive_on_update="false" label="Completed" sequence="2" value="Approved"/>
+                <element inactive="true" inactive_on_update="true" label="Completed" sequence="0" value="Completed"/>
+                <element dependent_value="Not Started" inactive_on_update="false" label="Not Yet Completed" sequence="0" value="Not Yet Completed"/>
+                <element inactive_on_update="false" label="Survey Expired" sequence="4" value="Survey Expired"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Survey Link" max_length="1024" name="survey_link" type="url"/>
+        <element label="4.1 A" max_length="40" name="u_4_1_a" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product" max_length="40" name="product" type="string"/>
+        <element label="3.2 A" max_length="40" name="u_3_2_a" type="string"/>
+        <element default="1.5 Net Zero Alignment&#13;&#10;&#13;&#10;How would you assess the investment strategy's net zero alignment?" label="1.5 Q" max_length="300" name="u_5_question" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Not Started" label="Survey State" max_length="40" name="survey_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting Approval" sequence="2" value="Awaiting Approval"/>
+                <element inactive_on_update="false" label="Not Started" sequence="0" value="Not Started"/>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="In Progress"/>
+                <element inactive="true" inactive_on_update="true" label="Completed" sequence="0"/>
+                <element inactive_on_update="false" label="Approved" sequence="3" value="Approved"/>
+            </choice>
+        </element>
+        <element default=" CLIMATE COMPETENCE AND NET ZERO" label="1." max_length="40" name="u_1_climate_competence_and_net_zero" read_only="true" type="string"/>
+        <element default="3.3 Investment process&#13;&#10;&#13;&#10;How would you assess the manager's integration of DEI in the investment process?" label="3.3 Q" max_length="300" name="u_3_3_q" read_only="true" type="string"/>
+        <element label="Priority 2" max_length="1500" name="priority_2" type="string"/>
+        <element label="2.2 A" max_length="40" name="u_2_2_a" type="string"/>
+        <element default="1.2 Communications and reporting&#13;&#10;&#13;&#10; How would you evaluate this manager's communication and reporting as it relates to climate issues tied to the investment strategy, inclusive of the broader organization?" label="1.2 Q" max_length="300" name="u_2_question" read_only="true" type="string"/>
+        <element label="2. Related Comments" max_length="300" name="u_2_related_comments" type="string"/>
+        <element label="4.4 A" max_length="40" name="u_4_4_a" type="string"/>
+        <element label="2.3 A" max_length="40" name="u_2_3_a" type="string"/>
+        <element label="1.5 A" max_length="40" name="u_5_answer" type="string"/>
+        <element label="3. Related Comments" max_length="300" name="u_3_related_comments" type="string"/>
+        <element default="4.4 investment outcomes&#13;&#10;&#13;&#10;How would you assess the strategy's investment outcomes regarding the manager's stewardship activities?" label="4.4 Q" max_length="200" name="u_4_4_q" read_only="true" type="string"/>
+        <element default="DEI" label="3." max_length="40" name="dei" read_only="true" type="string"/>
+        <element label="4.3 A" max_length="40" name="u_4_3_a" type="string"/>
+        <element default="2.3 Investment process&#13;&#10;How would you evaluate the investment strategy's ESG integration into the investment process?" label="2.3 Q" max_length="300" name="u_2_3_q" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="User" label="Distribution" max_length="40" name="distribution" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="User" sequence="100" value="User"/>
+                <element inactive_on_update="false" label="Group" sequence="200" value="Group"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Update to Latest Responses" max_length="40" name="update_to_latest_responses" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Survey Distributed" max_length="40" name="survey_distributed" type="boolean"/>
+        <element label="3.3 A" max_length="40" name="u_3_3_a" type="string"/>
+    </element>
+</database>

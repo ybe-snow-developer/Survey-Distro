@@ -28,7 +28,6 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
         <sys_created_on>2023-10-03 03:26:39</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f2cc2c5b1b6d75504570c91e1e4bcbc5</sys_id>
@@ -37,7 +36,6 @@
         <sys_overrides/>
         <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
         <sys_update_name>sys_script_client_f2cc2c5b1b6d75504570c91e1e4bcbc5</sys_update_name>
         <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>

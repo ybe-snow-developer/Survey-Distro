@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2024-05-29 12:30:12">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2024-08-09 17:22:58">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -8,7 +8,6 @@
         <sys_class_name>sys_portal_page</sys_class_name>
         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
         <sys_created_on>2023-10-03 13:50:42</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fb9bb2d31ba9b5504570c91e1e4bcb4e</sys_id>
@@ -17,7 +16,6 @@
         <sys_overrides/>
         <sys_package display_value="Survey Distribution" source="x_cama2_survey_dis">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Survey Distribution">c5c93bf01bedbd50f9c8ebd22a4bcb95</sys_scope>
         <sys_update_name>sys_portal_page_fb9bb2d31ba9b5504570c91e1e4bcb4e</sys_update_name>
         <sys_updated_by>vbrooks@cambridgeassociates.com</sys_updated_by>
@@ -40,7 +38,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 17:30:01</sys_created_on>
                         <sys_id>3776d4701ba7b514f9c8ebd22a4bcbcb</sys_id>
@@ -51,7 +49,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 17:30:01</sys_created_on>
                         <sys_id>7376d4701ba7b514f9c8ebd22a4bcbcb</sys_id>
@@ -62,7 +60,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 17:30:01</sys_created_on>
                         <sys_id>7f76d4701ba7b514f9c8ebd22a4bcbcb</sys_id>
@@ -73,7 +71,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:41</sys_created_on>
                         <sys_id>8237a9741ba3f514f9c8ebd22a4bcb05</sys_id>
@@ -84,7 +82,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:41</sys_created_on>
                         <sys_id>8237a9741ba3f514f9c8ebd22a4bcb06</sys_id>
@@ -95,7 +93,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:41</sys_created_on>
                         <sys_id>8637a9741ba3f514f9c8ebd22a4bcb05</sys_id>
@@ -106,7 +104,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:41</sys_created_on>
                         <sys_id>8637a9741ba3f514f9c8ebd22a4bcb06</sys_id>
@@ -117,7 +115,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:41</sys_created_on>
                         <sys_id>8a37a9741ba3f514f9c8ebd22a4bcb05</sys_id>
@@ -128,7 +126,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_color</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:41</sys_created_on>
                         <sys_id>8a37a9741ba3f514f9c8ebd22a4bcb06</sys_id>
@@ -139,7 +137,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:41</sys_created_on>
                         <sys_id>8e37a9741ba3f514f9c8ebd22a4bcb04</sys_id>
@@ -150,7 +148,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:41</sys_created_on>
                         <sys_id>8e37a9741ba3f514f9c8ebd22a4bcb05</sys_id>
@@ -161,7 +159,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>header_color</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:41</sys_created_on>
                         <sys_id>8e37a9741ba3f514f9c8ebd22a4bcb06</sys_id>
@@ -172,7 +170,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 17:30:01</sys_created_on>
                         <sys_id>b776d4701ba7b514f9c8ebd22a4bcbca</sys_id>
@@ -183,7 +181,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:41</sys_created_on>
                         <sys_id>b937a9741ba3f514f9c8ebd22a4bcb04</sys_id>
@@ -194,7 +192,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 17:30:01</sys_created_on>
                         <sys_id>bb76d4701ba7b514f9c8ebd22a4bcbcb</sys_id>
@@ -205,7 +203,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 01-02-2024 12:30:01 PM">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
+                        <portal_section display_value="Created 01-02-2024 12:30:01">3f76d4701ba7b514f9c8ebd22a4bcbc9</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 17:30:01</sys_created_on>
                         <sys_id>f776d4701ba7b514f9c8ebd22a4bcbcb</sys_id>
@@ -230,7 +228,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:42:03</sys_created_on>
                         <sys_id>072c2da31b6539d0f9c8ebd22a4bcbda</sys_id>
@@ -241,7 +239,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:42:03</sys_created_on>
                         <sys_id>432c2da31b6539d0f9c8ebd22a4bcbda</sys_id>
@@ -252,7 +250,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:42:03</sys_created_on>
                         <sys_id>8f2c2da31b6539d0f9c8ebd22a4bcbd9</sys_id>
@@ -263,7 +261,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:49</sys_created_on>
                         <sys_id>921629741ba3f514f9c8ebd22a4bcbe8</sys_id>
@@ -274,7 +272,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:49</sys_created_on>
                         <sys_id>961629741ba3f514f9c8ebd22a4bcbe8</sys_id>
@@ -285,7 +283,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:49</sys_created_on>
                         <sys_id>9a1629741ba3f514f9c8ebd22a4bcbe8</sys_id>
@@ -296,7 +294,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:49</sys_created_on>
                         <sys_id>9e1629741ba3f514f9c8ebd22a4bcbe8</sys_id>
@@ -307,7 +305,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:49</sys_created_on>
                         <sys_id>a21629741ba3f514f9c8ebd22a4bcbe9</sys_id>
@@ -318,7 +316,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_color</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:49</sys_created_on>
                         <sys_id>a21629741ba3f514f9c8ebd22a4bcbea</sys_id>
@@ -329,7 +327,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:49</sys_created_on>
                         <sys_id>a61629741ba3f514f9c8ebd22a4bcbe9</sys_id>
@@ -340,7 +338,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>header_color</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:49</sys_created_on>
                         <sys_id>a61629741ba3f514f9c8ebd22a4bcbea</sys_id>
@@ -351,7 +349,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:49</sys_created_on>
                         <sys_id>aa1629741ba3f514f9c8ebd22a4bcbe9</sys_id>
@@ -362,7 +360,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:49</sys_created_on>
                         <sys_id>ae1629741ba3f514f9c8ebd22a4bcbe9</sys_id>
@@ -373,7 +371,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:42:03</sys_created_on>
                         <sys_id>cb2c2da31b6539d0f9c8ebd22a4bcbd9</sys_id>
@@ -384,7 +382,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 10-03-2023 10:42:03 PM">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:42:03">472c2da31b6539d0f9c8ebd22a4bcbd8</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:42:03</sys_created_on>
                         <sys_id>cf2c2da31b6539d0f9c8ebd22a4bcbd8</sys_id>
@@ -409,7 +407,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:19</sys_created_on>
                         <sys_id>0c6d61671b6539d0f9c8ebd22a4bcbf6</sys_id>
@@ -420,7 +418,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>header_color</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:18:51</sys_created_on>
                         <sys_id>315629741ba3f514f9c8ebd22a4bcbd0</sys_id>
@@ -431,7 +429,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:19</sys_created_on>
                         <sys_id>406d61671b6539d0f9c8ebd22a4bcbf6</sys_id>
@@ -442,7 +440,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:19</sys_created_on>
                         <sys_id>446d61671b6539d0f9c8ebd22a4bcbf7</sys_id>
@@ -453,7 +451,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:19</sys_created_on>
                         <sys_id>486d61671b6539d0f9c8ebd22a4bcbf6</sys_id>
@@ -464,7 +462,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:18:29</sys_created_on>
                         <sys_id>504665341ba3f514f9c8ebd22a4bcbba</sys_id>
@@ -475,7 +473,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:18:29</sys_created_on>
                         <sys_id>504665341ba3f514f9c8ebd22a4bcbbb</sys_id>
@@ -486,7 +484,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:18:29</sys_created_on>
                         <sys_id>544665341ba3f514f9c8ebd22a4bcbba</sys_id>
@@ -497,7 +495,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:18:29</sys_created_on>
                         <sys_id>544665341ba3f514f9c8ebd22a4bcbbb</sys_id>
@@ -508,7 +506,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:18:29</sys_created_on>
                         <sys_id>584665341ba3f514f9c8ebd22a4bcbb9</sys_id>
@@ -519,7 +517,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:18:29</sys_created_on>
                         <sys_id>584665341ba3f514f9c8ebd22a4bcbba</sys_id>
@@ -530,7 +528,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_color</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:18:29</sys_created_on>
                         <sys_id>584665341ba3f514f9c8ebd22a4bcbbb</sys_id>
@@ -541,7 +539,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:18:29</sys_created_on>
                         <sys_id>5c4665341ba3f514f9c8ebd22a4bcbb9</sys_id>
@@ -552,7 +550,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:18:29</sys_created_on>
                         <sys_id>5c4665341ba3f514f9c8ebd22a4bcbba</sys_id>
@@ -563,7 +561,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:19</sys_created_on>
                         <sys_id>806d61671b6539d0f9c8ebd22a4bcbf7</sys_id>
@@ -574,7 +572,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:19</sys_created_on>
                         <sys_id>846d61671b6539d0f9c8ebd22a4bcbf6</sys_id>
@@ -585,7 +583,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:19</sys_created_on>
                         <sys_id>c86d61671b6539d0f9c8ebd22a4bcbf7</sys_id>
@@ -596,7 +594,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:19 PM">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:19">4c6d61671b6539d0f9c8ebd22a4bcbf5</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:19</sys_created_on>
                         <sys_id>cc6d61671b6539d0f9c8ebd22a4bcbf6</sys_id>
@@ -621,7 +619,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-03 14:25:03</sys_created_on>
                         <sys_id>0b73075f1ba9b5504570c91e1e4bcb07</sys_id>
@@ -632,7 +630,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-03 14:25:03</sys_created_on>
                         <sys_id>0f73cb1f1ba9b5504570c91e1e4bcb3b</sys_id>
@@ -643,7 +641,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:03</sys_created_on>
                         <sys_id>33f386c71b53b5d0f9c8ebd22a4bcb91</sys_id>
@@ -654,7 +652,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:03</sys_created_on>
                         <sys_id>33f386c71b53b5d0f9c8ebd22a4bcb92</sys_id>
@@ -665,7 +663,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:03</sys_created_on>
                         <sys_id>37f386c71b53b5d0f9c8ebd22a4bcb91</sys_id>
@@ -676,7 +674,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:03</sys_created_on>
                         <sys_id>37f386c71b53b5d0f9c8ebd22a4bcb92</sys_id>
@@ -687,7 +685,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:03</sys_created_on>
                         <sys_id>3bf386c71b53b5d0f9c8ebd22a4bcb90</sys_id>
@@ -698,7 +696,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:03</sys_created_on>
                         <sys_id>3bf386c71b53b5d0f9c8ebd22a4bcb91</sys_id>
@@ -709,7 +707,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:03</sys_created_on>
                         <sys_id>3ff386c71b53b5d0f9c8ebd22a4bcb90</sys_id>
@@ -720,7 +718,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:03</sys_created_on>
                         <sys_id>3ff386c71b53b5d0f9c8ebd22a4bcb91</sys_id>
@@ -731,7 +729,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-03 14:25:03</sys_created_on>
                         <sys_id>4773075f1ba9b5504570c91e1e4bcb07</sys_id>
@@ -742,7 +740,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>header_color</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:03</sys_created_on>
                         <sys_id>7bf386c71b53b5d0f9c8ebd22a4bcb92</sys_id>
@@ -753,7 +751,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-03 14:25:03</sys_created_on>
                         <sys_id>8373075f1ba9b5504570c91e1e4bcb07</sys_id>
@@ -764,7 +762,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-03 14:25:03</sys_created_on>
                         <sys_id>8773cb1f1ba9b5504570c91e1e4bcb3b</sys_id>
@@ -775,7 +773,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_color</name>
-                        <portal_section display_value="Created 10-03-2023 10:25:03 AM">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:25:03">8373cb1f1ba9b5504570c91e1e4bcb3b</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 15:05:24</sys_created_on>
                         <sys_id>b0758a471b53b5d0f9c8ebd22a4bcb5a</sys_id>
@@ -800,7 +798,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_color</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 15:05:55</sys_created_on>
                         <sys_id>08954a8b1b53b5d0f9c8ebd22a4bcbf0</sys_id>
@@ -811,7 +809,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:40</sys_created_on>
                         <sys_id>117de5a71b6539d0f9c8ebd22a4bcb3b</sys_id>
@@ -822,7 +820,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:40</sys_created_on>
                         <sys_id>157de5a71b6539d0f9c8ebd22a4bcb3a</sys_id>
@@ -833,7 +831,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:28</sys_created_on>
                         <sys_id>311442871b53b5d0f9c8ebd22a4bcb8b</sys_id>
@@ -844,7 +842,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:28</sys_created_on>
                         <sys_id>311442871b53b5d0f9c8ebd22a4bcb8c</sys_id>
@@ -855,7 +853,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:28</sys_created_on>
                         <sys_id>351442871b53b5d0f9c8ebd22a4bcb8b</sys_id>
@@ -866,7 +864,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:28</sys_created_on>
                         <sys_id>351442871b53b5d0f9c8ebd22a4bcb8c</sys_id>
@@ -877,7 +875,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:28</sys_created_on>
                         <sys_id>391442871b53b5d0f9c8ebd22a4bcb8b</sys_id>
@@ -888,7 +886,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:28</sys_created_on>
                         <sys_id>391442871b53b5d0f9c8ebd22a4bcb8c</sys_id>
@@ -899,7 +897,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:28</sys_created_on>
                         <sys_id>3d1442871b53b5d0f9c8ebd22a4bcb8a</sys_id>
@@ -910,7 +908,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:28</sys_created_on>
                         <sys_id>3d1442871b53b5d0f9c8ebd22a4bcb8b</sys_id>
@@ -921,7 +919,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:40</sys_created_on>
                         <sys_id>517de5a71b6539d0f9c8ebd22a4bcb3a</sys_id>
@@ -932,7 +930,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>header_color</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:59:28</sys_created_on>
                         <sys_id>7d1442871b53b5d0f9c8ebd22a4bcb8c</sys_id>
@@ -943,7 +941,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:40</sys_created_on>
                         <sys_id>957de5a71b6539d0f9c8ebd22a4bcb39</sys_id>
@@ -954,7 +952,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:40</sys_created_on>
                         <sys_id>997de5a71b6539d0f9c8ebd22a4bcb3a</sys_id>
@@ -965,7 +963,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:40</sys_created_on>
                         <sys_id>9d7de5a71b6539d0f9c8ebd22a4bcb39</sys_id>
@@ -976,7 +974,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:40</sys_created_on>
                         <sys_id>d57de5a71b6539d0f9c8ebd22a4bcb3a</sys_id>
@@ -987,7 +985,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 10-03-2023 10:47:40 PM">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
+                        <portal_section display_value="Created 10-03-2023 22:47:40">917de5a71b6539d0f9c8ebd22a4bcb39</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-04 02:47:40</sys_created_on>
                         <sys_id>d97de5a71b6539d0f9c8ebd22a4bcb39</sys_id>
@@ -1012,7 +1010,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-11-07 15:27:27</sys_created_on>
                         <sys_id>1261e7ae1b5279544570c91e1e4bcb98</sys_id>
@@ -1023,7 +1021,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-11-07 15:27:27</sys_created_on>
                         <sys_id>5e61e7ae1b5279544570c91e1e4bcb97</sys_id>
@@ -1034,7 +1032,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-11-07 15:27:27</sys_created_on>
                         <sys_id>9a61e7ae1b5279544570c91e1e4bcb97</sys_id>
@@ -1045,7 +1043,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-11-07 15:27:27</sys_created_on>
                         <sys_id>9e61e7ae1b5279544570c91e1e4bcb96</sys_id>
@@ -1056,7 +1054,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-11-07 15:27:27</sys_created_on>
                         <sys_id>d261e7ae1b5279544570c91e1e4bcb98</sys_id>
@@ -1067,7 +1065,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:07</sys_created_on>
                         <sys_id>e1176d741ba3f514f9c8ebd22a4bcbb8</sys_id>
@@ -1078,7 +1076,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:07</sys_created_on>
                         <sys_id>e1176d741ba3f514f9c8ebd22a4bcbb9</sys_id>
@@ -1089,7 +1087,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:07</sys_created_on>
                         <sys_id>e5176d741ba3f514f9c8ebd22a4bcbb8</sys_id>
@@ -1100,7 +1098,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:07</sys_created_on>
                         <sys_id>e5176d741ba3f514f9c8ebd22a4bcbb9</sys_id>
@@ -1111,7 +1109,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:07</sys_created_on>
                         <sys_id>e9176d741ba3f514f9c8ebd22a4bcbb7</sys_id>
@@ -1122,7 +1120,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:07</sys_created_on>
                         <sys_id>e9176d741ba3f514f9c8ebd22a4bcbb8</sys_id>
@@ -1133,7 +1131,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_color</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:07</sys_created_on>
                         <sys_id>e9176d741ba3f514f9c8ebd22a4bcbb9</sys_id>
@@ -1144,7 +1142,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:07</sys_created_on>
                         <sys_id>ed176d741ba3f514f9c8ebd22a4bcbb7</sys_id>
@@ -1155,7 +1153,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:07</sys_created_on>
                         <sys_id>ed176d741ba3f514f9c8ebd22a4bcbb8</sys_id>
@@ -1166,7 +1164,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>header_color</name>
-                        <portal_section display_value="Created 11-07-2023 10:27:27 AM">9a61636e1b5279544570c91e1e4bcb30</portal_section>
+                        <portal_section display_value="Created 11-07-2023 10:27:27">9a61636e1b5279544570c91e1e4bcb30</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:22:07</sys_created_on>
                         <sys_id>ed176d741ba3f514f9c8ebd22a4bcbb9</sys_id>
@@ -1191,7 +1189,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:55:37</sys_created_on>
                         <sys_id>1133ce071b53b5d0f9c8ebd22a4bcb95</sys_id>
@@ -1202,7 +1200,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:55:37</sys_created_on>
                         <sys_id>1533ce071b53b5d0f9c8ebd22a4bcb96</sys_id>
@@ -1213,7 +1211,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:55:37</sys_created_on>
                         <sys_id>1933ce071b53b5d0f9c8ebd22a4bcb97</sys_id>
@@ -1224,7 +1222,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:58:26</sys_created_on>
                         <sys_id>22d386871b53b5d0f9c8ebd22a4bcb34</sys_id>
@@ -1235,7 +1233,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:58:26</sys_created_on>
                         <sys_id>22d386871b53b5d0f9c8ebd22a4bcb35</sys_id>
@@ -1246,7 +1244,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:58:26</sys_created_on>
                         <sys_id>26d386871b53b5d0f9c8ebd22a4bcb34</sys_id>
@@ -1257,7 +1255,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:58:26</sys_created_on>
                         <sys_id>26d386871b53b5d0f9c8ebd22a4bcb35</sys_id>
@@ -1268,7 +1266,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:58:26</sys_created_on>
                         <sys_id>2ad386871b53b5d0f9c8ebd22a4bcb34</sys_id>
@@ -1279,7 +1277,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:58:26</sys_created_on>
                         <sys_id>2ad386871b53b5d0f9c8ebd22a4bcb35</sys_id>
@@ -1290,7 +1288,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:58:26</sys_created_on>
                         <sys_id>2ed386871b53b5d0f9c8ebd22a4bcb34</sys_id>
@@ -1301,7 +1299,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:58:26</sys_created_on>
                         <sys_id>2ed386871b53b5d0f9c8ebd22a4bcb35</sys_id>
@@ -1312,7 +1310,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:55:37</sys_created_on>
                         <sys_id>5133ce071b53b5d0f9c8ebd22a4bcb96</sys_id>
@@ -1323,7 +1321,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>header_color</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:58:26</sys_created_on>
                         <sys_id>62d386871b53b5d0f9c8ebd22a4bcb36</sys_id>
@@ -1334,7 +1332,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:55:37</sys_created_on>
                         <sys_id>9933ce071b53b5d0f9c8ebd22a4bcb96</sys_id>
@@ -1345,7 +1343,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:55:37</sys_created_on>
                         <sys_id>9d33ce071b53b5d0f9c8ebd22a4bcb95</sys_id>
@@ -1356,7 +1354,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_color</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 15:05:45</sys_created_on>
                         <sys_id>b985c2471b53b5d0f9c8ebd22a4bcbea</sys_id>
@@ -1367,7 +1365,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:55:37</sys_created_on>
                         <sys_id>d533ce071b53b5d0f9c8ebd22a4bcb96</sys_id>
@@ -1378,7 +1376,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 12-28-2023 09:55:37 AM">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
+                        <portal_section display_value="Created 12-28-2023 09:55:37">d533ce071b53b5d0f9c8ebd22a4bcb94</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-12-28 14:55:37</sys_created_on>
                         <sys_id>d933ce071b53b5d0f9c8ebd22a4bcb95</sys_id>
@@ -1403,7 +1401,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:14</sys_created_on>
                         <sys_id>02f569741ba3f514f9c8ebd22a4bcbd3</sys_id>
@@ -1414,7 +1412,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:14</sys_created_on>
                         <sys_id>02f569741ba3f514f9c8ebd22a4bcbd4</sys_id>
@@ -1425,7 +1423,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:14</sys_created_on>
                         <sys_id>06f569741ba3f514f9c8ebd22a4bcbd3</sys_id>
@@ -1436,7 +1434,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:14</sys_created_on>
                         <sys_id>06f569741ba3f514f9c8ebd22a4bcbd4</sys_id>
@@ -1447,7 +1445,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:14</sys_created_on>
                         <sys_id>0af569741ba3f514f9c8ebd22a4bcbd3</sys_id>
@@ -1458,7 +1456,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_color</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:14</sys_created_on>
                         <sys_id>0af569741ba3f514f9c8ebd22a4bcbd4</sys_id>
@@ -1469,7 +1467,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:14</sys_created_on>
                         <sys_id>0ef569741ba3f514f9c8ebd22a4bcbd2</sys_id>
@@ -1480,7 +1478,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:14</sys_created_on>
                         <sys_id>0ef569741ba3f514f9c8ebd22a4bcbd3</sys_id>
@@ -1491,7 +1489,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>header_color</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:14</sys_created_on>
                         <sys_id>0ef569741ba3f514f9c8ebd22a4bcbd4</sys_id>
@@ -1502,7 +1500,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-03 14:22:34</sys_created_on>
                         <sys_id>32e28b1f1ba9b5504570c91e1e4bcbe6</sys_id>
@@ -1513,7 +1511,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-03 14:22:34</sys_created_on>
                         <sys_id>7ee28b1f1ba9b5504570c91e1e4bcbe5</sys_id>
@@ -1524,7 +1522,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-03 14:22:34</sys_created_on>
                         <sys_id>bae28b1f1ba9b5504570c91e1e4bcbe5</sys_id>
@@ -1535,7 +1533,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-03 14:22:34</sys_created_on>
                         <sys_id>bee28b1f1ba9b5504570c91e1e4bcbe4</sys_id>
@@ -1546,7 +1544,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2024-01-02 23:17:14</sys_created_on>
                         <sys_id>c2f569741ba3f514f9c8ebd22a4bcbd2</sys_id>
@@ -1557,7 +1555,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 10-03-2023 10:22:34 AM">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
+                        <portal_section display_value="Created 10-03-2023 10:22:34">f6e203db1ba9b5504570c91e1e4bcbb4</portal_section>
                         <sys_created_by>vbrooks@cambridgeassociates.com</sys_created_by>
                         <sys_created_on>2023-10-03 14:22:34</sys_created_on>
                         <sys_id>f2e28b1f1ba9b5504570c91e1e4bcbe6</sys_id>

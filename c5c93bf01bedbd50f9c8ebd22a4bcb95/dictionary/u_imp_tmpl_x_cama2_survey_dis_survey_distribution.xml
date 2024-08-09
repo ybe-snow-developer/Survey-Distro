@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f97aa8d51bad7190f9c8ebd22a4bcb2c" extends="sys_import_set_row" label="Imp Tmpl X Cama2 Survey Dis Survey Distribution" max_length="40" name="u_imp_tmpl_x_cama2_survey_dis_survey_distribution" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short Description" label="Short Description" max_length="250" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Survey State" label="Survey State" max_length="40" name="u_survey_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Product Owner" label="Product Owner" max_length="32" name="u_product_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CambridgeID" label="CambridgeID" max_length="100" name="u_cambridgeid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Survey Distributed" label="Survey Distributed" max_length="40" name="u_survey_distributed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Interested Party" label="Interested Party" max_length="32" name="u_interested_party" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned to" label="Assigned to" max_length="32" name="u_assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+    </element>
+</database>
